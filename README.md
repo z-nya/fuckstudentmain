@@ -8,4 +8,12 @@ TASKKILL /F /IM studentmain.exe /T
 ```
 #2
 =
+万能密码
+```
+mythware_super_passord
+```
+#3
+=
 其他软件
+https://wwsa.lanzouj.com/iwTMQ2bojbwf
+密码:1145
