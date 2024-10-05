@@ -15,3 +15,4 @@ set /a n+=1
 if %n%==60 exit
 goto a1
 timeout /t -1
+::hn1-lcf.luochancy.com:51910
